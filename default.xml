@@ -469,4 +469,5 @@
   <project path="werty100" name="werty100/ota-updater-2.0" remote="github" revision="master"/>
   <project path="mcbyte-it" name="mcbyte-it/rom_stats" remote="github" revision="master"/>
   <project path="PAC-man" name="PAC-man/packages_apps_ROMControl" remote="github" revision="cm10.2"/>
+  <project path="omnirom" name="omnirom/packages_apps_OmniGears" remote="github" revision="android-4.4"/>
 </manifest>
