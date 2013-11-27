@@ -476,6 +476,9 @@
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
   <!-- LIONOS Add sources -->
+  <project path="werty100" name="wery100/LionOS" remote="github" revision="master"/>
+  <project path="kernel/sony" name="munjeni/android_kernel_xperiago" remote="github" revision="jb-dev"/>
+  <project path="hardware/semc" name="XperiaNovathor/aosp_4.3_hardware_semc" remote="github" revision="master"/>
   <project path="werty100" name="werty100/HALO" remote="github" revision="jb43"/>
   <project path="werty100" name="werty100/ota-updater-2.0" remote="github" revision="master"/>
   <project path="mcbyte-it" name="mcbyte-it/rom_stats" remote="github" revision="master"/>
